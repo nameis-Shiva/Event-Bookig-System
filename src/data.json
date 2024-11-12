@@ -1,0 +1,12 @@
+[
+  { "id": "1", "title": "Music Concert", "description": "Enjoy live music", "category": "Music", "date": "2024-12-01", "availableSeats": 5, "price": 3000 },
+  { "id": "2", "title": "Art Workshop", "description": "Learn painting", "category": "Art", "date": "2024-12-05", "availableSeats": 10, "price": 2000 },
+  { "id": "3", "title": "Food Festival", "description": "Taste local delicacies", "category": "Food", "date": "2024-12-08", "availableSeats": 15, "price": 1000 },
+  { "id": "4", "title": "Tech Conference", "description": "Discover new tech trends", "category": "Technology", "date": "2024-12-10", "availableSeats": 100, "price": 5500 },
+  { "id": "5", "title": "Stand-Up Comedy", "description": "Laugh out loud", "category": "Comedy", "date": "2024-12-12", "availableSeats": 20, "price": 2500 },
+  { "id": "6", "title": "Yoga Retreat", "description": "Relax and rejuvenate", "category": "Health", "date": "2024-12-15", "availableSeats": 8, "price": 4000 },
+  { "id": "7", "title": "Film Screening", "description": "Watch an indie film", "category": "Movies", "date": "2024-12-18", "availableSeats": 30, "price": 1200 },
+  { "id": "8", "title": "Photography Workshop", "description": "Learn photography skills", "category": "Art", "date": "2024-12-20", "availableSeats": 12, "price": 3050 },
+  { "id": "9", "title": "Book Club", "description": "Discuss this month's book", "category": "Literature", "date": "2024-12-22", "availableSeats": 10, "price": 5000 },
+  { "id": "10", "title": "Cooking Class", "description": "Master Italian cuisine", "category": "Food", "date": "2024-12-25", "availableSeats": 10, "price": 4500 }
+]

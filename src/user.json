@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "username": "Shiva",
+      "password": "12345",
+      "bookedTickets": []
+    },
+    {
+      "id": 2,
+      "username": "Khaif",
+      "password": "12345",
+      "bookedTickets": []
+    },
+    {
+      "id": 3,
+      "username": "Venky",
+      "password": "12345",
+      "bookedTickets": []
+    },
+    {
+      "id": 4,
+      "username": "Deepika",
+      "password": "12345",
+      "bookedTickets": []
+    },
+    {
+      "id": 5,
+      "username": "Jaanu",
+      "password": "12345",
+      "bookedTickets": []
+    }
+  ]
+  
